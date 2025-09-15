@@ -1,8 +1,12 @@
+# Quick Polls
+
+setup env vars by refering .env.example
+
 ```
 npm install
 npm run dev
 ```
 
 ```
-open http://localhost:3000
+open http://localhost:<PORT>
 ```
